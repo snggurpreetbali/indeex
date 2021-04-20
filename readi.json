@@ -1,0 +1,15 @@
+{
+    "result": {
+        "rootVegetables": {
+            "first": "turnips",
+            "second": "ginger",
+            "third": "beets",
+        
+            "leafyVegetables": {
+            "first": "broccoli",
+            "second": "spinach",
+            "third": "cabbage"
+            }
+        }
+    }
+}
